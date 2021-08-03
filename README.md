@@ -27,6 +27,15 @@ I currently work as a Data Science consultant at PwC in Bergen, Norway.
 
 ---
 
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...]([website])
+
+---
+
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=jpiversen&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
