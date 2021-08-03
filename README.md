@@ -30,6 +30,9 @@ I currently work as a Data Science consultant at PwC in Bergen, Norway.
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Imputing missing values in time series](https://jpiversen.com/post/imputing-missing-values-in-time-series/)
+- [Benchmark Downloading CSV-files](https://jpiversen.com/post/benchmark-downloading-csv-files/)
+- [Quick-tip: Scan your R library for security threats](https://jpiversen.com/post/quick-tip-scan-your-r-library-for-security-threats/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...]([website])
