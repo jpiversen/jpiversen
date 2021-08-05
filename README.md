@@ -37,6 +37,8 @@ I'm from Bergen, Norway, where I currently work as a Data Science consultant at 
 - [Imputing missing values in time series](https://jpiversen.com/post/imputing-missing-values-in-time-series/)
 - [Benchmark Downloading CSV-files](https://jpiversen.com/post/benchmark-downloading-csv-files/)
 - [Quick-tip: Scan your R library for security threats](https://jpiversen.com/post/quick-tip-scan-your-r-library-for-security-threats/)
+- [Raspberry Pi setup for dummies](https://jpiversen.com/post/raspberry-pi-setup-for-dummies/)
+- [Quick tip: Live preview of R Markdown reports](https://jpiversen.com/post/quick-tip-live-preview-of-r-markdown-reports/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...]([website])
