@@ -3,13 +3,6 @@
 I'm from Bergen, Norway, where I currently work as a Data Science consultant at PwC. I mainly do Data Analytics / Data Science projects for the financial industry, using tools such as R, Python and SQL. My educational background is in Quantitative Finance, where I have a Masters Degree from [QTEM Masters Network](https://www.qtem.org/). 
 
 
-#### The places I have worked and studied:
-
-[<img align="center" src="https://raw.githubusercontent.com/jpiversen/places_lived/main/cities_lived.gif" />][website]
-
-
-
-
 #### The languages and tools I use:
 
 [<img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />][website]
@@ -53,6 +46,14 @@ I'm from Bergen, Norway, where I currently work as a Data Science consultant at 
 ➡️ [more blog posts...][website]
 
 ---
+
+#### The places I have worked and studied:
+
+[<img align="center" src="https://raw.githubusercontent.com/jpiversen/places_lived/main/cities_lived.gif" />][website]
+
+
+---
+
 
 #### GitHub stats
 
