@@ -5,7 +5,7 @@ I'm from Bergen, Norway, where I currently work as a Data Science consultant at 
 
 #### The places I have worked and studied:
 
-[<img align="center" src="https://raw.githubusercontent.com/jpiversen/places_lived/main/cities_lived.png" />][website]
+[<img align="center" src="https://raw.githubusercontent.com/jpiversen/places_lived/main/cities_lived.gif" />][website]
 
 
 
