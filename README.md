@@ -1,4 +1,4 @@
-## Hi, I'm Jan Petter - JP for short 👋
+## Jan Petter Iversen 👋
 
 I'm from Bergen, Norway, where I currently work as a Data Science consultant at PwC. I mainly do Data Analytics / Data Science projects for the financial industry, using tools such as R, Python and SQL. My educational background is in Quantitative Finance, where I have a Masters Degree from [QTEM Masters Network](https://www.qtem.org/). 
 
